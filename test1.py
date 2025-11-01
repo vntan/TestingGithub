@@ -1,1 +1,0 @@
-print('Đây là test1.py')
